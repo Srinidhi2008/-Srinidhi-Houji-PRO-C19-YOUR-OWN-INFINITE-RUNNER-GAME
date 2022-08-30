@@ -1,1 +1,3 @@
-# -Srinidhi-Houji-PRO-C19-YOUR-OWN-INFINITE-RUNNER-GAME
+# Pro-19-Infinite-Runner-Game
+
+# Suma Chandrasekhar
